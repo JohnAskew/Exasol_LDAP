@@ -1,1 +1,1 @@
-# exasol-udf
+# exasol utilities for LDAP Sync solution.
